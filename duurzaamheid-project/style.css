@@ -1,0 +1,51 @@
+body {
+    font-family: 'Painters Display', sans-serif;
+    background-color: #32021f;
+    color: #77a0a9;
+    text-align: center;
+}
+
+header {
+    background-color: #6c596e;
+}
+
+header img {
+    width: 100%;
+}
+
+header p {
+    font-size: larger;
+}
+
+nav a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    margin-top: 0.5em;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+main p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+main img {
+    width: 100%;
+}
+
+h2 {
+    margin-top: 1.5em;
+}
+
+footer {
+    background-color:#6c596e;
+}
+
+iframe {
+    width: 100%;
+    margin-top: 1em;
+}
